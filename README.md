@@ -49,13 +49,13 @@ Area of the circle is: 314.16 square units
 ```
 
 ## Features
-###**Circle Class**: Encapsulates circle properties and behaviors
+### **Circle Class**: Encapsulates circle properties and behaviors
   - Private radius variable for data encapsulation
   - Getter and setter methods for accessing radius
   - calculateArea() method using Math.PI for accurate calculations
   - toString() method for string representation
   
-###**MainApplication Class**: Handles program flow
+### **MainApplication Class**: Handles program flow
   - User input handling using Scanner
   - Circle object instantiation
   - Area calculation and display
